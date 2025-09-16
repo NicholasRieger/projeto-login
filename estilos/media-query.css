@@ -21,6 +21,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
     
     #login{
         width: 80%;
+        height: 290px;
     }
 
     #imagem{
@@ -48,6 +49,7 @@ Extra large devices (large laptops and desktops, 1200px and up)
     #login{
         width: 80%;
         max-width: 1000px;
+        height: 290px;
     }
 
     #imagem{
@@ -62,7 +64,6 @@ Extra large devices (large laptops and desktops, 1200px and up)
     }
 
     #formulario p{  
-        font-size: 1em;
-    }
-    
+        font-size: 0.85em;
+    }  
 }
